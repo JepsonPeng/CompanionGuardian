@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/CompanionGuardian/Scenes/InitializationScene.unity
+    guid: 197a2b3a8cbe0e74b8e7c4be7807f9ca
+  - enabled: 1
+    path: Assets/CompanionGuardian/Scenes/CheckingVirsionAndUpdateScene.unity
+    guid: 58d18c66e66c60f46a87a77ac21a5507
+  - enabled: 1
+    path: Assets/CompanionGuardian/Scenes/RegistrationAndLoginScene.unity
+    guid: c8e2634ddf4f6db4d9d9b8c63aedb3c0
+  - enabled: 1
+    path: Assets/CompanionGuardian/Scenes/MainMenuScene.unity
+    guid: a4316bd756ffd4846aac0b7f1668c2e4
+  - enabled: 1
+    path: Assets/CompanionGuardian/Scenes/StoreScene.unity
+    guid: 75dadd432356691468e66ec70712ec8b
+  - enabled: 1
+    path: Assets/CompanionGuardian/Scenes/LoadingScene.unity
+    guid: 0eb642e3cd9248541bd53d289c4169cc
+  m_configObjects: {}
